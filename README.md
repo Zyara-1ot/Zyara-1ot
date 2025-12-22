@@ -1,9 +1,62 @@
-<h2 align="center">Hi 👋, I'm Sneha</h2>
-<h4 align="center">ML • Competitive Programming</h4>
-  
+# Hi 👋, I'm Sneha
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=ML+%2B+Competitive+Programming;Python+%7C+C%2B%2B+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-- Python
-- C++
+## 🚀 About Me
+
+- Diving deep into Machine Learning and sharpening my skills in Competitive Programming
+- ⚡ Love solving challenging problems!
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyara-1ot&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Competitive Programming Profiles
+
+- 💻 **Codeforces:** [https://codeforces.com/profile/Sneha101]
+- 🔥 **AtCoder:** [https://atcoder.jp/users/Sneha_pal]
+- 🌟 **CodeChef:** [https://www.codechef.com/users/snehapal_11]
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-pal-220037388)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Zyara_1ot)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zyara-1ot&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
