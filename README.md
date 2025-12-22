@@ -7,4 +7,3 @@
 ### 🛠️ Tech Stack
 - Python
 - C++
-# mistix_
