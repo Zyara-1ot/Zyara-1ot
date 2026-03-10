@@ -9,9 +9,7 @@
 
 ## 🚀 About Me
 
-- Diving deep into Machine Learning and sharpening my skills in Competitive Programming
-- ⚡ Love solving challenging problems!
-
+- confused
 ---
 
 ## 🛠️ Tech Stack
