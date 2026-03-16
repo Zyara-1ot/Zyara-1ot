@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sneha
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/173a9e48-265b-4f71-a86d-f7d77cea30fb" width="600"/>
+  
 </p>
 
 
