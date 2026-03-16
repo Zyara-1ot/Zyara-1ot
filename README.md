@@ -17,24 +17,14 @@
 ![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyara-1ot&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
----
-## Github contribution
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Zyara-1ot&label=Total%20Profile%20Views&color=ff69b4&style=flat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
----
+## 📊 Contribution Heatmap
 
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zyara-1ot&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+<p align="center">
+<img src="https://ghchart.rshah.org/ff69b4/Zyara-1ot?bg=0d1117&color=ffc0cb" width="900"/>
+</p>
