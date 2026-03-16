@@ -25,4 +25,4 @@
 
 ## 📊 Contribution Heatmap
 
-(https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true)
+![Contribution Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true)
