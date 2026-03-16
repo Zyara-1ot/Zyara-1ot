@@ -25,6 +25,4 @@
 
 ## 📊 Contribution Heatmap
 
-<p align="center">
-<img src="https://ghchart.rshah.org/ff69b4/Zyara-1ot?bg=0d1117&color=ffc0cb" width="900"/>
-</p>
+(https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true)
