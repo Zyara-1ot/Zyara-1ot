@@ -26,10 +26,10 @@
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution Heatmap
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&theme=tokyo-night&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
+<img src="https://ghchart.rshah.org/ff69b4/Zyara-1ot" />
 </p>
 
 ---
