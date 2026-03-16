@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 - confused
 
 ---
@@ -17,7 +17,7 @@
 ![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
