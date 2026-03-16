@@ -26,3 +26,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zyara-1ot/Zyara-1ot/output/ocean.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Zyara-1ot/Zyara-1ot/output/github-snake.svg" />
 </picture>
+
+
+![Commits](https://img.shields.io/badge/Total%20Commits-141-ff2d78?style=flat-square&logo=github&logoColor=white)
+
+![Visits](https://komarev.com/ghpvc/?username=Zyara-1ot&color=ff2d78&style=flat-square&label=Profile+Views)
