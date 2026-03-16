@@ -37,19 +37,6 @@
 
 ---
 
-## 🎯 Competitive Programming Profiles
-
-- 💻 **Codeforces:** [https://codeforces.com/profile/Sneha101]
-- 🔥 **AtCoder:** [https://atcoder.jp/users/Sneha_pal]
-- 🌟 **CodeChef:** [https://www.codechef.com/users/snehapal_11]
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-</div>
 
 ---
 
