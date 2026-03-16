@@ -29,7 +29,7 @@
 ## 📊 Contribution Heatmap
 
 <p align="center">
-<img src="https://ghchart.rshah.org/ff69b4/Zyara-1ot" width="900"/>
+<img src="https://ghchart.rshah.org/58a6ff/Zyara-1ot" width="900"/>
 </p>
 
 ---
