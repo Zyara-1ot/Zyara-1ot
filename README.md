@@ -26,11 +26,11 @@
 
 ---
 
-## Contribution Graph
+## 📊 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&theme=tokyo-night&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 
