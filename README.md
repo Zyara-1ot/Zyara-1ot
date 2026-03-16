@@ -23,6 +23,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
-## 📊 Contribution Heatmap
-
-![Contribution Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=Zyara-1ot&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4ea1df7-a62e-46ed-9faa-0789d124d1db" />
