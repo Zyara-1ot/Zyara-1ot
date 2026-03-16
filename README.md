@@ -25,11 +25,9 @@
 </div>
 
 ---
-
-## 📊 Contribution Heatmap
-
+## Github contribution
 <p align="center">
-<img src="https://ghchart.rshah.org/ff69b4/Zyara-1ot?bg=0d1117&color=ffc0cb" width="900"/>
+<img src="https://komarev.com/ghpvc/?username=Zyara-1ot&label=Total%20Profile%20Views&color=ff69b4&style=flat"/>
 </p>
 
 ---
