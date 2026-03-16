@@ -17,6 +17,10 @@
 ![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&bg_color=000000&title_color=ff2d78&text_color=ffffff&icon_color=ff2d78&border_color=ff2d78)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyara-1ot&layout=compact&bg_color=000000&title_color=ff2d78&text_color=ffffff&border_color=ff2d78)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zyara-1ot/Zyara-1ot/output/ocean.svg" />
