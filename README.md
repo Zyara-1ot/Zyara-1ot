@@ -1,23 +1,20 @@
 # Hi 👋, I'm Sneha
+
 <p align="center">
-
-  
+<img src="https://raw.githubusercontent.com/Zyara-1ot/Zyara-1ot/main/7IfMVBGv.jpg" width="800">
 </p>
-
-
 
 ---
 
 ## 🚀 About Me
-
 - confused
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 
 ---
 
