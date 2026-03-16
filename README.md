@@ -23,3 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zyara-1ot/Zyara-1ot/output/ocean.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Zyara-1ot/Zyara-1ot/output/github-snake.svg" />
+</picture>
