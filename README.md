@@ -28,6 +28,6 @@
 </picture>
 
 
-![Commits](https://img.shields.io/badge/Total%20Commits-188-ff2d78?style=flat-square&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-200-ff2d78?style=flat-square&logo=github&logoColor=white)
 
 ![Visits](https://komarev.com/ghpvc/?username=Zyara-1ot&color=ff2d78&style=flat-square&label=Profile+Views)
