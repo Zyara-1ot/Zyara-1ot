@@ -17,8 +17,7 @@
 ![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&bg_color=000000&title_color=ff2d78&text_color=ffffff&icon_color=ff2d78&border_color=ff2d78)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyara-1ot&show_icons=true&bg_color=000000&title_color=ff2d78&text_color=ffffff&icon_color=ff2d78&border_color=ff2d78&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyara-1ot&layout=compact&bg_color=000000&title_color=ff2d78&text_color=ffffff&border_color=ff2d78)
 
 
@@ -28,6 +27,6 @@
 </picture>
 
 
-![Commits](https://img.shields.io/badge/Total%20Commits-200-ff2d78?style=flat-square&logo=github&logoColor=white)
+![Commits](https://img.shields.io/github/commit-activity/t/Zyara-1ot/Zyara-1ot?color=ff2d78&style=flat-square&logo=github&logoColor=white&label=Total%20Commits)
 
 ![Visits](https://komarev.com/ghpvc/?username=Zyara-1ot&color=ff2d78&style=flat-square&label=Profile+Views)
